@@ -1,0 +1,33 @@
+# Auto-generated data
+data/sustainment.db
+data/csv/*.csv
+reports/data/
+reports/parquet/
+reports/figures/*.png
+reports/summary.md
+logs/pipeline.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
