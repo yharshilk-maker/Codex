@@ -1,0 +1,21 @@
+part_id,part_name,part_category,mean_time_between_failure_hours,unit_cost_usd
+PRT-001,High-Pressure Turbine Blade,Hot Section,6000.0,12500.0
+PRT-002,Low-Pressure Turbine Blade,Hot Section,8000.0,8700.0
+PRT-003,Combustion Liner,Hot Section,7000.0,15000.0
+PRT-004,Fuel Nozzle,Hot Section,10000.0,4200.0
+PRT-005,Turbine Disk,Hot Section,15000.0,45000.0
+PRT-006,Fan Blade,Fan,12000.0,18000.0
+PRT-007,Fan Case,Fan,25000.0,32000.0
+PRT-008,Fan Hub,Fan,20000.0,22000.0
+PRT-009,Inlet Guide Vane,Fan,14000.0,6500.0
+PRT-010,Bearing Assembly - Front,Bearings,10000.0,9800.0
+PRT-011,Bearing Assembly - Rear,Bearings,10000.0,9800.0
+PRT-012,Main Gearbox,Gearbox,18000.0,55000.0
+PRT-013,Accessory Gearbox,Gearbox,15000.0,28000.0
+PRT-014,Oil Pump,Gearbox,12000.0,7600.0
+PRT-015,Compressor Rotor Stage 1,Compressor,16000.0,21000.0
+PRT-016,Compressor Stator Vane,Compressor,14000.0,11500.0
+PRT-017,Bleed Valve,Compressor,11000.0,3800.0
+PRT-018,FADEC Unit,Controls,20000.0,62000.0
+PRT-019,Igniter Plug,Hot Section,5000.0,1200.0
+PRT-020,Exhaust Nozzle Segment,Exhaust,9000.0,8900.0

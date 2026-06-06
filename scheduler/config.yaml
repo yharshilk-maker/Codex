@@ -1,0 +1,14 @@
+pipeline:
+  database_path: "data/sustainment.db"
+  csv_output_dir: "data/csv"
+  reports_dir: "reports"
+  log_dir: "logs"
+
+schedule:
+  analytics_cron: "0 0 * * *"   # daily at midnight
+  timezone: "America/New_York"
+
+data_generation:
+  num_engines: 50
+  num_parts: 20
+  history_years: 3
